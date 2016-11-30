@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7C8C0437B3FFBF3F82935CE1F4FDE2C5DDD28BD2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7C8C0437B3FFBF3F82935CE1F4FDE2C5DDD28BD2" : 9223372036854775807,
+    "561D8550DFED62C20EA7E9DAA738CAABFA87B42D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CBE3E505-D475-4460-816E-783FE5B1BDC7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7C8C0437B3FFBF3F82935CE1F4FDE2C5DDD28BD2" : "%E8%BD%AC%E5%9C%BA%E5%8A%A8%E7%94%BBdemo\/",
+    "561D8550DFED62C20EA7E9DAA738CAABFA87B42D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FVCustomTransition",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FVCustomTransition.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SimonCY\/DeepAI_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "561D8550DFED62C20EA7E9DAA738CAABFA87B42D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Upliver\/FVCustomTransition.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C8C0437B3FFBF3F82935CE1F4FDE2C5DDD28BD2"
+    }
+  ]
+}
